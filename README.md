@@ -43,4 +43,7 @@ Currently my tech stack is:
 
 ```
 
+<a href="https://twitter.com/victor_hfsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victor_hfsilva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victorhfsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorhfsilva" height="30" width="40" /></a>
+
 
