@@ -16,7 +16,7 @@
 ########  ########## ########   ########  ###    ### ###########     ###        ###     
 
 
-Hi my name is Victor. This account was made so I can upload pentest related content on github. I hope you enjoy.
+Hi my name is Victor. This account was made so I can upload pentest related content on github.
 
 Currently my tech stack is:
 
