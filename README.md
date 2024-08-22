@@ -38,7 +38,11 @@ Currently my tech stack is:
   - Go
   - Bash
 
-4. Tools
+4. DevOps
+  - Docker
+  - Git
+
+5. Tools
   - Burp Suite
 
 ```
