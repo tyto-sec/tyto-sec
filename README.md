@@ -25,6 +25,7 @@ Currently my tech stack is:
   - Spring
   - Kafka
   - RabbitMQ
+  - PHP
 
 2. Front End
   - HTML
