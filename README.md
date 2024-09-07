@@ -37,7 +37,9 @@ Currently my tech stack is:
 3. Scripting
   - Python
   - Go
+  - C
   - Bash
+  - Powershell
 
 4. DevOps
   - Docker
