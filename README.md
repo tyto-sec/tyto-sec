@@ -47,6 +47,8 @@ Currently my tech stack is:
 
 5. Tools
   - Burp Suite
+  - Metasploit
+  - Nessus
 
 ```
 
