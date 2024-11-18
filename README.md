@@ -1,68 +1,35 @@
-```
-
-                            ::::::::::: :::   ::: ::::::::::: ::::::::      
-                               :+:     :+:   :+:     :+:    :+:    :+:    
-                              +:+      +:+ +:+      +:+    +:+    +:+   
-                             +#+       +#++:       +#+    +#+    +:+   
-                            +#+        +#+        +#+    +#+    +#+   
-                           #+#        #+#        #+#    #+#    #+#     
-                          ###        ###        ###     ########      
-        ::::::::  :::::::::: ::::::::  :::    ::: :::::::::  ::::::::::: ::::::::::: :::   ::: 
-      :+:    :+: :+:       :+:    :+: :+:    :+: :+:    :+:     :+:         :+:     :+:   :+:  
-     +:+        +:+       +:+        +:+    +:+ +:+    +:+     +:+         +:+      +:+ +:+    
-    +#++:++#++ +#++:++#  +#+        +#+    +:+ +#++:++#:      +#+         +#+       +#++:      
-          +#+ +#+       +#+        +#+    +#+ +#+    +#+     +#+         +#+        +#+        
-  #+#    #+# #+#       #+#    #+# #+#    #+# #+#    #+#     #+#         #+#        #+#         
-  ########  ########## ########   ########  ###    ### ###########     ###        ###     
+<img src="./Linkedin banner tyto.png" />
 
 
-Hi my name is Victor. This github was made so I can upload pentest related scripts.
+Hello! My name is Victor and my hacker handler is Tyto. Welcome to my Github profile. Here, you'll find a curated collection of security projects, code examples, and experiments that I've worked on throughout my journey.
 
-Currently my tech stack is:
+## 🧑 About Me
 
-1. Back End
-  - Java
-  - Spring
-  - Kafka
-  - RabbitMQ
-  - PHP
+I currently work as a Developer I at DB Server. I'm a contractor in the IT Governance team at Sicredi, the first cooperative financial institution in Latin America. 
 
-2. Front End
-  - HTML
-  - CSS
-  - Javascript
-  - Typescript
-  - React
+To get to know better my journey as software developer visit my main github:
 
-3. Scripting
-  - Python
-  - Go
-  - C
-  - Bash
-  - Powershell
+- [Github: Victor Silva](https://github.com/victorhfsilva)
 
-4. DevOps
-  - Docker
-  - Git
+Secure development is a area that strongly fascinates me. That's why, in my free time, I'm studying ethical hacking, application security, among other security related subjects.
 
-5. Tools
-  - Burp Suite
-  - Metasploit
-  - Nessus
 
-```
+## 📈 Stats
 
-<div style="display: flex; align-items: flex-start;">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyto-sec&show_icons=true&locale=en&layout=compact&theme=dracula" alt="tyto-sec" />
-  </p>
-  <div>
-
-  --- 
-  <h3>Contact me:</h3>
-    <a href="https://twitter.com/victor_hfsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victor_hfsilva" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/victorhfsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorhfsilva" height="30" width="40" /></a>
-  </div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyto-sec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
+## 📫 Contact
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/victorhfsilva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/victor_hfsilva" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1158496290695544913" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
