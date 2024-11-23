@@ -17,7 +17,7 @@ Secure development is a area that strongly fascinates me. That's why, in my free
 ## 📈 Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyto-sec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyto-sec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2s&how_icons=true&cache_seconds=21600" height="180" alt="languages graph"  />
 </div>
 
 ## 📫 Contact
