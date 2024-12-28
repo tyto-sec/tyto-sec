@@ -32,4 +32,7 @@ Secure development is a area that strongly fascinates me. That's why, in my free
   <a href="https://discordapp.com/users/1158496290695544913" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  <a href="https://instagram.com/victor.hfsilva" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor.hfsilva" width="52" height="40" />
+  </a>
 </div>
