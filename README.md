@@ -33,3 +33,4 @@ Secure development is a area that strongly fascinates me. That's why, in my free
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
