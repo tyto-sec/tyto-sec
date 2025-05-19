@@ -1,4 +1,4 @@
-<img src="./Linkedin banner tyto.png" />
+<img src="./banner-tyto.png" />
 
 
 Hello! My name is Victor and my hacker handler is Tyto. Welcome to my Github profile. Here, you'll find a curated collection of security projects, code examples, and experiments that I've worked on throughout my journey.
