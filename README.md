@@ -1,24 +1,17 @@
 <img src="./banner-tyto.png" />
 
 
-Hello! My name is Victor and my hacker handler is Tyto. Welcome to my Github profile. Here, you'll find a curated collection of security projects, code examples, and experiments that I've worked on throughout my journey.
+Hello! My name is Victor and my hacker handler is tyto. Welcome to my Github profile. Here, you'll find a curated collection of security projects I've worked on throughout my journey.
 
 ## 🧑 About Me
 
-I currently work as a Developer I at DB Server. I'm a contractor in the IT Governance team at Sicredi, the first cooperative financial institution in Latin America. 
+I currently work as a Jr. Developer at DB Server. I'm a contractor in the IT Governance team at Sicredi, the first cooperative financial institution in Latin America. 
 
 To get to know better my journey as software developer visit my main github:
 
 - [Github: Victor Silva](https://github.com/victorhfsilva)
 
-Secure development is a area that strongly fascinates me. That's why, in my free time, I'm studying ethical hacking, application security, among other security related subjects.
-
-
-## 📈 Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyto-sec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2s&how_icons=true&cache_seconds=21600" height="180" alt="languages graph"  />
-</div>
+Offensive Security is a area that strongly fascinates me. That's why, I'm not just learning ethical hacking but also applying my knowledge in CTFs and Bug Bounties.
 
 ## 📫 Contact
 
