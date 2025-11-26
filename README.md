@@ -8,7 +8,7 @@ Hello! My name is Victor and my hacker handler is tyto. Welcome to my Github pro
 <img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFrZGNnbm04ampwbnRtb2s5aDdrdHFwNmhjNjB3bG5mNnI3cG9xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xRFNlhRqoP2PS/giphy.gif"  />
 
 
-### 📫 Contact
+### 📫 **Contact me**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victorhfsilva/" target="_blank">
