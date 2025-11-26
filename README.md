@@ -3,8 +3,12 @@
 
 Hello! My name is Victor and my hacker handler is tyto. Welcome to my Github profile. Here, you'll find a curated collection of security projects I've worked on throughout my journey.
 
+<br clear="both">
 
-## 📫 Contact
+<img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFrZGNnbm04ampwbnRtb2s5aDdrdHFwNmhjNjB3bG5mNnI3cG9xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xRFNlhRqoP2PS/giphy.gif"  />
+
+
+### 📫 Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victorhfsilva/" target="_blank">
