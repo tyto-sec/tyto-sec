@@ -3,12 +3,17 @@
 
 Hello! My name is Victor and my hacker handler is tyto. Welcome to my Github profile. Here, you'll find a curated collection of security projects I've worked on throughout my journey.
 
-<br clear="both">
+## 💼 Job Experience...
 
-<img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFrZGNnbm04ampwbnRtb2s5aDdrdHFwNmhjNjB3bG5mNnI3cG9xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xRFNlhRqoP2PS/giphy.gif"  />
+I currently work as a Software Engineer at Sicredi. In this role, I work on Front-End development with React and TypeScript, Back-End development with Java and Spring Boot, building ETLs with Databricks; implementing Data Pipelines with Python; creating dashboards with Power BI and reports with Denodo.
 
+In my previous experience as an intern at DB Server, I underwent intensive training on Back End development with Java and Spring; Front End development with Typescript and React; Test Automation with Selenium, Cypress and Rest Assured; and agile methodologies such as Scrum and Kanban.
 
-### 📫 **Contact me**
+## 🌱 Current Learning...
+
+One area that fascinates me a lot is offensive security. That's why, I'm not just learning ethical hacking but also applying my knowledge in CTFs and Bug Bounties.
+
+## 📫 **Contact me**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victorhfsilva/" target="_blank">
