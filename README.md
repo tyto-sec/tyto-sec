@@ -1,19 +1,107 @@
 <img src="./banner-tyto.png" />
 
+<br>
 
-Hello! My name is Victor and my hacker handler is tyto. Welcome to my Github profile. Here, you'll find a curated collection of security projects I've worked on throughout my journey.
+Hello! Welcome to my code land! This Github profile was created to organize all my Offensive Security Repositories in one profile. I hope those projects can be useful in your research.
 
-## 💼 Job Experience...
+<br>
 
-I currently work as a Software Engineer at Sicredi. In this role, I work on Front-End development with React and TypeScript, Back-End development with Java and Spring Boot, building ETLs with Databricks; implementing Data Pipelines with Python; creating dashboards with Power BI and reports with Denodo.
+## 💼 Job Experience
 
-In my previous experience as an intern at DB Server, I underwent intensive training on Back End development with Java and Spring; Front End development with Typescript and React; Test Automation with Selenium, Cypress and Rest Assured; and agile methodologies such as Scrum and Kanban.
+<br>
 
-## 🌱 Current Learning...
+I currently work as a Software Engineer at the Credit Union Sicredi. In this role, I work on Front-End development using React and TypeScript, Back-End development using Java and Spring Boot, ETL development with Databricks and creating all sorts of scripts and automations with Python.
 
-One area that fascinates me a lot is offensive security. That's why, I'm not just learning ethical hacking but also applying my knowledge in CTFs and Bug Bounties.
+In my previous experience at DB Server I also worked with the same stack plus Automated Test development using Selenium and Rest Assured.
 
-## 📫 **Contact me**
+<br> 
+
+## 🔧 Projects
+
+<br>
+
+Some of the projects I'm still proud of are summarized below:
+
+<br>
+
+| Projects    | Language | Description |
+| -------- | ------- | ------- |
+| [DnsKiller](https://github.com/tyto-sec/DnsKiller)  | Python | Automated tool for scanning a domain list in search for Subdomain Takeover and Email Spoofing vulnerabilities via DNS queries. |
+| [Nmapalooza](https://github.com/tyto-sec/nmapalooza) | Bash | Toolkit that automates a multi-stage network scan process using Nmap. |
+| [Linkaboo](https://github.com/tyto-sec/linkaboo)   | Bash | Linux enumaration toolkit to automate post exploitation enumeration of targets. |
+
+
+<br>
+
+## 🧰 Languages and Tools
+
+<br> 
+
+### Back End
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+</div>
+
+<br>
+
+
+### Front End
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+<br>
+
+### Quality Assurance
+
+<div align="left"> 
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>  
+  <img src="https://rest-assured.io/img/logo-transparent.png" alt="restassured" width="40" height="40" >
+</div>
+
+<br>
+
+### DevSecOps
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+<br>
+
+### Data
+
+<div align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_170295.png" alt="databricks" width="40" height="40"/>
+</div>
+
+<br>
+
+<br>
+
+## 📫 **Contact**
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victorhfsilva/" target="_blank">
