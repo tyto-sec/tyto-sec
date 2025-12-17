@@ -22,8 +22,6 @@ In my previous experience at DB Server I also worked with the same stack plus Au
 
 Some of the projects I'm still proud of are summarized below:
 
-<br>
-
 | Projects    | Language | Description |
 | -------- | ------- | ------- |
 | [DnsKiller](https://github.com/tyto-sec/DnsKiller)  | Python | Automated tool for scanning a domain list in search for Subdomain Takeover and Email Spoofing vulnerabilities via DNS queries. |
