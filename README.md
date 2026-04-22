@@ -1,7 +1,7 @@
 <img src="./banner.png" />
 
 <div align="center">
-  <a href="https://www.youtube.com/@TytoSecurity" target="_blank">
+  <!-- <a href="https://www.youtube.com/@TytoSecurity" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/tytosec/" target="_blank">
@@ -9,16 +9,16 @@
   </a>
   <a href="https://www.twitch.tv/tytosec" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitch logo"  />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/victorhfsilva/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/1158496290695544913" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
   </a>
-  <a href="https://medium.com/@tytosec" target="_blank">
+  <!-- <a href="https://medium.com/@tytosec" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="medium logo"  />
-  </a>
+  </a> -->
   <a href="https://x.com/tytosec" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
   </a>
@@ -46,23 +46,18 @@ My background also includes a foundation in Quality Assurance, specifically in d
 
 A summarized list of my finished projects is the following:
 
-| Projects    | Description | Language | Stars |
-| -------- | ------- | ------- | ------- |
-| [Rayders On The Storm](https://github.com/tyto-sec/RaydersOnTheStorm) | Modular recon and vulnerability automation framework | ![language](https://img.shields.io/github/languages/top/tyto-sec/RaydersOnTheStorm) | ![stars](https://img.shields.io/github/stars/tyto-sec/RaydersOnTheStorm)  |
-| [TakeOver](https://github.com/tyto-sec/TakeOver) | Tool to perform subdomain takeover and permissive spf enumeration. | ![language](https://img.shields.io/github/languages/top/tyto-sec/TakeOver)| ![stars](https://img.shields.io/github/stars/tyto-sec/TakeOver)  |
-| [HackerOneScraper](https://github.com/tyto-sec/HackerOneScraper) | Scraping tool for HackerOne structured scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneScraper)| ![stars](https://img.shields.io/github/stars/tyto-sec/HackerOneScraper)  |
-| [HackerOneCsvGrabber](https://github.com/tyto-sec/HackerOneCsvGrabber) | Tool to extract in scope assets from Hacker One CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneCsvGrabber)| ![stars](https://img.shields.io/github/stars/tyto-sec/HackerOneCsvGrabber)  |
-| [BugcrowdScraper](https://github.com/tyto-sec/BugcrowdScraper) | Scraping tool for Bugcrowd engagement scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdScraper)| ![stars](https://img.shields.io/github/stars/tyto-sec/BugcrowdScraper)  |
-| [BugcrowdCsvGrabber](https://github.com/tyto-sec/BugcrowdCsvGrabber) | Tool to extract in scope assets from Bugcrowd CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdCsvGrabber)| ![stars](https://img.shields.io/github/stars/tyto-sec/BugcrowdCsvGrabber)  |
-| [Easymap](https://github.com/tyto-sec/easymap) | Multi-Stage network scan tool bacsed on Nmap. | ![language](https://img.shields.io/github/languages/top/tyto-sec/easymap) | ![stars](https://img.shields.io/github/stars/tyto-sec/easymap)  |
-| [Linkorn](https://github.com/tyto-sec/linkorn) | Post-Exploitation Enumaration Tool for Linux. | ![language](https://img.shields.io/github/languages/top/tyto-sec/linkorn) | ![stars](https://img.shields.io/github/stars/tyto-sec/linkorn)  |
+| Projects    | Description | Language |
+| -------- | ------- | ------- |
+| [Rayders On The Storm](https://github.com/tyto-sec/RaydersOnTheStorm) | Modular recon and vulnerability automation framework | ![language](https://img.shields.io/github/languages/top/tyto-sec/RaydersOnTheStorm) |
+| [TakeOver](https://github.com/tyto-sec/TakeOver) | Tool to perform subdomain takeover and permissive spf enumeration. | ![language](https://img.shields.io/github/languages/top/tyto-sec/TakeOver)|
+| [HackerOneScraper](https://github.com/tyto-sec/HackerOneScraper) | Scraping tool for HackerOne structured scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneScraper)|
+| [HackerOneCsvGrabber](https://github.com/tyto-sec/HackerOneCsvGrabber) | Tool to extract in scope assets from Hacker One CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/HackerOneCsvGrabber)|
+| [BugcrowdScraper](https://github.com/tyto-sec/BugcrowdScraper) | Scraping tool for Bugcrowd engagement scopes. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdScraper)|
+| [BugcrowdCsvGrabber](https://github.com/tyto-sec/BugcrowdCsvGrabber) | Tool to extract in scope assets from Bugcrowd CSVs. | ![language](https://img.shields.io/github/languages/top/tyto-sec/BugcrowdCsvGrabber)|
+| [Easymap](https://github.com/tyto-sec/easymap) | Multi-Stage network scan tool bacsed on Nmap. | ![language](https://img.shields.io/github/languages/top/tyto-sec/easymap) |
+| [Linkorn](https://github.com/tyto-sec/linkorn) | Post-Exploitation Enumaration Tool for Linux. | ![language](https://img.shields.io/github/languages/top/tyto-sec/linkorn) |
 
 
 <br>
 
 
-## Contact
-
-<br>
-
-While I haven't been as active on social media lately, that is about to change. I’m planning to develop some high-quality cybersecurity content and look forward to sharing it with the community soon. If you'd like to stay updated on this project and other upcoming initiatives, feel free to follow me on your preferred platform.
