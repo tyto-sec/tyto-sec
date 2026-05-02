@@ -6,16 +6,6 @@
 > **Tyto Security** is an open-source initiative dedicated to developing offensive security tools designed to streamline CTFs, Bug Bounty hunting, and professional penetration testing workflows. Beyond tool development, we are committed to advancing cybersecurity knowledge and fostering a more secure digital ecosystem through community-driven education and collaboration.
 <br>
 
-## About Me
-
-<br>
-
-I am a Software Engineer specializing in Full-Cycle Development, Cybersecurity and Data Engineering. My core technical stack includes building Front-End applications with React and TypeScript, alongside Back-End services using Java and Spring Boot. Additionally, I have extensive experience in Data Engineering, where I leverage Python, SQL, and Databricks to build pipelines of data.
-
-My background also includes a foundation in Quality Assurance, specifically in developing automated testing suites using Selenium, Rest Assured and Cypress to ensure software reliability and performance.
-
-<br> 
-
 ## Projects
 
 <br>
