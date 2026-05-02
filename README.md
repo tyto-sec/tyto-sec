@@ -34,5 +34,3 @@ A summarized list of my main projects is the following:
 
 <br>
 
----
-
